@@ -1,0 +1,1 @@
+<body class="min-h-screen <?php echo $additionalClasses ?>">
